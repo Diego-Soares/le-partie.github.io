@@ -88,8 +88,13 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
+<<<<<<< HEAD
+  background-color: #b8312f;
+  border-color: #b8312f;
+=======
   background-color: #fac51c;
   border-color: #fac51c;
+>>>>>>> dec8e6656164941bc75b24b806ce20bc7a3d2a04
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -97,6 +102,17 @@ h6,
 .btn-primary.focus,
 .btn-primary:active,
 .btn-primary.active {
+<<<<<<< HEAD
+  background-color: #761d1f;
+  border-color: #4a1914;
+  color: #ffffff;
+}
+.btn-primary.disabled,
+.btn-primary:disabled {
+  background-color: #761d1f !important;
+  border-color: #4a1914 !important;
+  color: #ffffff !important;
+=======
   color: #ffffff;
   background-color: #c59704;
   border-color: #c59704;
@@ -106,6 +122,7 @@ h6,
   color: #ffffff !important;
   background-color: #c59704 !important;
   border-color: #c59704 !important;
+>>>>>>> dec8e6656164941bc75b24b806ce20bc7a3d2a04
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -148,8 +165,13 @@ h6,
   border-color: #597478 !important;
 }
 .btn-success {
+<<<<<<< HEAD
+  background-color: #2ecc71;
+  border-color: #2ecc71;
+=======
   background-color: #90a878;
   border-color: #90a878;
+>>>>>>> dec8e6656164941bc75b24b806ce20bc7a3d2a04
   color: #ffffff;
 }
 .btn-success:hover,
@@ -158,8 +180,13 @@ h6,
 .btn-success:active,
 .btn-success.active {
   color: #ffffff;
+<<<<<<< HEAD
+  background-color: #27ae60;
+  border-color: #27ae60;
+=======
   background-color: #6a8153;
   border-color: #6a8153;
+>>>>>>> dec8e6656164941bc75b24b806ce20bc7a3d2a04
 }
 .btn-success.disabled,
 .btn-success:disabled {
@@ -1178,6 +1205,27 @@ h6,
     right: 0;
     top: 45px;
 }
+<<<<<<< HEAD
+.bg-lighter h3.mbr-section-title.title-large:before {
+    content: '';
+    width: 20%;
+    height: 1px;
+    background-color: #761d1f;
+    position: absolute;
+    left: 0;
+    top: 45px;
+}
+.bg-lighter h3.mbr-section-title.title-large:after {
+    content: '';
+    width: 20%;
+    height: 1px;
+    background-color: #761d1f;
+    position: absolute;
+    right: 0;
+    top: 45px;
+}
+=======
+>>>>>>> dec8e6656164941bc75b24b806ce20bc7a3d2a04
 .overlay{
   z-index: 999;
   background-color: #000;
@@ -1205,3 +1253,14 @@ h6,
   top: 35%;
   right: -60px;
 }
+<<<<<<< HEAD
+.text-center{
+  text-align: center;
+}
+#msg-box2-0 h3{
+  margin-bottom: 0;
+  margin-top: -10px;
+  color: #2b2b2b;
+}
+=======
+>>>>>>> dec8e6656164941bc75b24b806ce20bc7a3d2a04
