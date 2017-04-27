@@ -1205,13 +1205,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   position: relative;
   padding-left: 0;
   padding-right: 0;
-<<<<<<< HEAD
   padding-top: 60px;
-  padding-bottom: 60px; }
-=======
-  padding-top: 120px;
-  padding-bottom: 120px; }
->>>>>>> dec8e6656164941bc75b24b806ce20bc7a3d2a04
+  padding-bottom: 35px; }
   @media (max-width: 767px) {
     .mbr-cards-col {
       padding-top: 60px;

@@ -487,4 +487,7 @@
         }
     }    
 
+    $('.phone').mask('(00) 00000-0000');
+    $('.date').mask('00/00/0000');
+
 })(jQuery);!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";document.body.insertBefore(a,document.body.childNodes[0])}}();
